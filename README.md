@@ -68,8 +68,8 @@ To run this project, you will need to add the following environment variables to
 - [Sanghamitra Majumder](https://github.com/Sangit-G)
 
 ## Designers
-Snigdha Chandra 
-Subarna Paul
+- Snigdha Chandra 
+- Subarna Paul
 
 
 ## Acknowledgements
