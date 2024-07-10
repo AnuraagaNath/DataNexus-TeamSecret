@@ -63,11 +63,13 @@ To run this project, you will need to add the following environment variables to
 
 **Framework:** PyTorch
 
-## Developers [TEAM SECRET]
-
+## Developers 
 - [Anuraaga Nath](https://github.com/AnuraagaNath)
 - [Sanghamitra Majumder](https://github.com/Sangit-G)
 
+## Designers
+Snigdha Chandra 
+Subarna Paul
 
 
 ## Acknowledgements
