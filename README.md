@@ -68,8 +68,8 @@ To run this project, you will need to add the following environment variables to
 - [Sanghamitra Majumder](https://github.com/Sangit-G)
 
 ## Documentation Team
-- Snigdha Chandra 
-- Subarna Paul
+- [Snigdha Chandra](https://github.com/snigschan/snigschan) 
+- [Subarna Paul](https://github.com/Sub-277)
 
 **Together we are Team Secret!**
 
